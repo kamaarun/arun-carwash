@@ -1039,6 +1039,8 @@ a:focus {
     position: relative;
     border-radius: 5px 5px 0 0;
     overflow: hidden;
+    height: fit-content;
+    max-width: fit-content;
 }
 
 .team .team-img img {
